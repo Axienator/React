@@ -1,0 +1,16 @@
+
+.bLayout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.wordBox {
+    border: 2px solid beige;
+    width: 60rem;
+    height: 25rem;
+}
+
+
+
