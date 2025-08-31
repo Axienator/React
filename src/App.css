@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(66, 63, 63);
+    color: antiquewhite;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+}
+
+
+
