@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(66, 63, 63);
+    color: antiquewhite;
+    height: 300vh;
+}
+
+.TopBar {
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-left: 30px;
+    background: rgba(0, 255, 187, 0.326);
+    border-radius: 20px;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+    color: black;
+    font: bold 15px Arial, Helvetica, sans-serif;
+}
+
+.Links {
+    display: flex;
+    gap: 3rem;
+    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+
+
